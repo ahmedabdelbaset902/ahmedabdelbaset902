@@ -12,6 +12,7 @@
 <h3 align="left">Current Learning</h3>
 <ul align="left">
   <li> I am currently deepening my knowledge of the .NET framework to develop innovative and high-performance web applications..</li>
+  <br>
   <li> I am currently learning Angular to build dynamic and responsive web applications with a focus on user experience and performance..</li>
 </ul>
 
