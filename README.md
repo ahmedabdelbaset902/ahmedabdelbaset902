@@ -1,12 +1,18 @@
 ![Kiran1689 Banner Image](./banner.png)
 <h1 align="center">Hi 👋, I'm Ahmed Abdelbaset</h1>
 <h3 align="center">Web Devoloper FullStack.net</h3>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 <br />
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li> I am currently deepening my knowledge of the .NET framework to develop innovative and high-performance web applications..</li>
+  <li> I am currently learning Angular to build dynamic and responsive web applications with a focus on user experience and performance..</li>
+</ul>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedabdelbaset902&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedabdelbaset902" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabdelbaset902" alt="ahmedabdelbaset902" /></a> </p>
