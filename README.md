@@ -1,5 +1,4 @@
-<img align="center" src="![banner](https://github.com/user-attachments/assets/f780d8c8-0fd1-4364-93ea-bcca8278092a)
-"  />
+![Kiran1689 Banner Image](./banner.png)
 <h1 align="center">Hi 👋, I'm Ahmed Abdelbaset</h1>
 <h3 align="center">Web Devoloper FullStack.net</h3>
 
