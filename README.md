@@ -16,7 +16,6 @@
   <li> I am currently learning Angular to build dynamic and responsive web applications with a focus on user experience and performance..</li>
 </ul>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabdelbaset902" alt="ahmedabdelbaset902" /></a> </p>
 <br>
 <h3 align="left">Connect with me:</h3>
