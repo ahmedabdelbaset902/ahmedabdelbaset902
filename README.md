@@ -1,4 +1,16 @@
-![WhatsApp Image 2024-09-17 at 01 22 50_43ca1c86](https://github.com/user-attachments/assets/b3f53b5c-9999-4471-b39a-a739100db3fb)
+<p align="center">
+  <img src="assets/header.png"/>
+</p>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Samarjit+Sahoo;Software+Engineer" width="auto" height="35"/>
+</p>
+<p align="center">
+  <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
+</p>
+<h3 align="center">My interests</h3>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Ahmed Abdelbaset</h1>
 <h3 align="center">Web Devoloper FullStack.net</h3>
