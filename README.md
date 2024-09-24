@@ -40,6 +40,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedabdelbaset902&show_icons=true&locale=en&layout=compact" alt="ahmedabdelbaset902" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedabdelbaset902&show_icons=true&locale=en" alt="ahmedabdelbaset902" /></p>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
 
