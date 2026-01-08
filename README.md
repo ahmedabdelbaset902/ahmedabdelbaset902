@@ -17,15 +17,6 @@
   <br>
   <li> I am currently learning Angular to build dynamic and responsive web applications with a focus on user experience and performance..</li>
 </ul>
-### GitHub Stats :
-
-<p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=ahmedabdelbaset902&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
-</p>
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-abdelbaset-b6b69b244/" target="blank">
@@ -38,6 +29,15 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aahemad648/" height="30" width="40" />
   </a>
 </p> 
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=ahmedabdelbaset902&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+</p>
+
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer" ">
