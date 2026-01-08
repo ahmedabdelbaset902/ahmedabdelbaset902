@@ -19,9 +19,10 @@
 </ul>
 <p align="left">
   <a href="https://github.com/ahmedabdelbaset902/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmedabdelbaset902&theme=flat" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmedabdelbaset902&theme=onedark" alt="GitHub Trophy" />
   </a>
 </p>
+
 
 <br> 
 <h3 align="left">Connect with me:</h3>
