@@ -17,11 +17,12 @@
   <br>
   <li> I am currently learning Angular to build dynamic and responsive web applications with a focus on user experience and performance..</li>
 </ul>
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmedabdelbaset902" alt="ahmedabdelbaset902" />
+<p align="left">
+  <a href="https://github.com/ahmedabdelbaset902/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmedabdelbaset902&theme=flat" alt="GitHub Trophy" />
   </a>
 </p>
+
 <br> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
