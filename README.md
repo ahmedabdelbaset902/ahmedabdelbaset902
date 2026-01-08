@@ -17,15 +17,13 @@
   <br>
   <li> I am currently learning Angular to build dynamic and responsive web applications with a focus on user experience and performance..</li>
 </ul>
-<p align='center'>
-  <img src='https://hacked-github-stat-trophies.vercel.app/?username=ahmedabdelbaset902&theme=dracula&column=4'>
-</p>
-<br> 
+### GitHub Stats :
 
-<p align="left">
-  <img align='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=ahmedabdelbaset902&count_private=true&show_icons=true&theme=dracula' />
-  <img align='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdelbaset902&theme=dracula' />
-</p
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=ahmedabdelbaset902&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+</p>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
