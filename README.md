@@ -18,12 +18,16 @@
   <li> I am currently learning Angular to build dynamic and responsive web applications with a focus on user experience and performance..</li>
 </ul>
 <p align='center'>
-  <img src='https://hacked-github-stat-trophies.vercel.app/?username=ahmedabdelbaset902&theme=dracula&column=6'>
+  <img src='https://hacked-github-stat-trophies.vercel.app/?username=ahmedabdelbaset902&theme=dracula&column=4'>
 </p>
-
-
-
 <br> 
+
+<p align="left">
+  <img align='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=ahmedabdelbaset902&count_private=true&show_icons=true&theme=dracula' />
+  <img align='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdelbaset902&theme=dracula' />
+</p
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-abdelbaset-b6b69b244/" target="blank">
@@ -68,11 +72,11 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
+ 
 </p> 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedabdelbaset902&show_icons=true&locale=en&layout=compact" alt="ahmedabdelbaset902" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedabdelbaset902&show_icons=true&locale=en" alt="ahmedabdelbaset902" /></p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</p>
